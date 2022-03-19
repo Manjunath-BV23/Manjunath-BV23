@@ -5,15 +5,19 @@
 
 <p align="left"> <a href="https://twitter.com/bvmtrsmanjunath" target="blank"><img src="https://img.shields.io/twitter/follow/bvmtrsmanjunath?logo=twitter&style=for-the-badge" alt="bvmtrsmanjunath" /></a> </p>
 
+
+
 - 🌱 I’m currently learning **Full-stack Web Development at Masaischool**
 
-- 👨‍💻 All of my projects are available at [https://manjunathbvprofile.netlify.app/](https://manjunathbvprofile.netlify.app/)
+- 👨‍💻 All of my projects are available at [my Portfolio](https://manjunathbvprofile.netlify.app/)
 
 - 📫 How to reach me **bvmanjunath53@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1X5A08nlUmOPAhCrZk4MCQ0zXJ9lp2dMO/view](https://drive.google.com/file/d/1X5A08nlUmOPAhCrZk4MCQ0zXJ9lp2dMO/view)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1X5A08nlUmOPAhCrZk4MCQ0zXJ9lp2dMO/view)
 
 - ⚙️ Technical Skills : **HTML, CSS, Advanced JS, Node.js, Express, Mongoose, and React.**
+
+<div> <img src = "https://raw.githubusercontent.com/Renukote/Renukote/051cadb27789caa9a268427a07ad8d9e3b6c7cec/web-developer-img.svg"> </div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
