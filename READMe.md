@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/bvmtrsmanjunath" target="blank"><img src="https://img.shields.io/twitter/follow/bvmtrsmanjunath?logo=twitter&style=for-the-badge" alt="bvmtrsmanjunath" /></a> </p>
 
-- 🌱 I’m currently learning **Full-stack Web Development at Masaischool**
+- 🌱 I’m currently working as a **Web Developer** at **Skywings Advertising**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://manjunathbvprofile.netlify.app/)
 
