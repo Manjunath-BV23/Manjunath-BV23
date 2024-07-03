@@ -8,11 +8,11 @@
 
 - 🌱 I’m currently working as a **Web Developer** at **Skywings Advertising**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://manjunathbvprofile.netlify.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://manjunath-bv23.github.io/)
 
 - 📫 How to reach me **bvmanjunath53@gmail.com**
 
-- 📄 Know about my experiences in [Resume](https://drive.google.com/file/d/1X5A08nlUmOPAhCrZk4MCQ0zXJ9lp2dMO/view)
+- 📄 Know about my experiences in [Resume](https://drive.google.com/file/d/1e0xoDyRZdi8X4SSS-0qDzu9tZDwpKBw_/view?usp=sharing)
 
 - ⚙️ Technical Skills : **HTML, CSS, Advanced JS, Node.js, Express, Mongoose, and React.**
 
