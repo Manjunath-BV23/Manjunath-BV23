@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manjunath B V</h1>
-<h3 align="center">Full-stack Web Developer | MERN Stack</h3>
+<h3 align="center">Full-stack Web Developer | MERN Stack</h>
 <div align="center" ><img src = "https://raw.githubusercontent.com/mohammad2407/mohammad2407/main/gif-1.gif" /></div>
 ## ❤ Views and Followers
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manjunath-bv23&label=Profile%20views&color=0e75b6&style=flat" alt="majunath-bv23" /> </p>
